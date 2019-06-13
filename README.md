@@ -3,7 +3,7 @@
 ##Objectives
 * Continue to practice using yield and blocks
 * Gain a deeper understanding of `#all?`
-
+  
 
 ##Code Along Exercise
 
